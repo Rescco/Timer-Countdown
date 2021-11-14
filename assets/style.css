@@ -2,8 +2,6 @@
     font-family: 'Oswald', sans-serif;
 }
 
-
-
 .cta {
     position: relative;
     margin: auto;
@@ -64,3 +62,4 @@
 .cta:active {
     transform: scale(0.95);
 }
+
